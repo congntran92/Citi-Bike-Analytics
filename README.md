@@ -1,6 +1,6 @@
 # Citi-Bike-Analytics
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citibikenyc.com%2Fpricing%2Fsingle-ride&psig=AOvVaw2X7BAeonNBUlqeOq-fDl70&ust=1581480461065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjah_zPyOcCFQAAAAAdAAAAABAS)
+![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/singleride_product.jpg?mtime=20181003085554)
 
 <p align="center">
   <a href="#data-source">Data Source</a> •
