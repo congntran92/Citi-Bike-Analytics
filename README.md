@@ -140,6 +140,6 @@ on the weekend then they do on weekdays, but we may still determine that male us
 
 ## Technology Used
 
-<img src="https://www.vizteams.com/wp-content/uploads/2013/08/python-logo-master.png" width="240" height="50"/>
+<img src="https://www.vizteams.com/wp-content/uploads/2013/08/python-logo-master.png" width="200" height="50"/>
 
-<img src="https://www.exolearn.com/wp-content/uploads/2017/08/tableau-logo.jpg" width="240" height="60"/>
+<img src="https://www.exolearn.com/wp-content/uploads/2017/08/tableau-logo.jpg" width="200" height="60"/>
