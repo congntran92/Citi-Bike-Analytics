@@ -1,6 +1,6 @@
 # Citi-Bike-Analytics
 
-![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
+![alt text](https://inhabitat.com/wp-content/blogs.dir/1/files/2013/06/ciit-bike-key-600x480.jpg)
 
 <p align="center">
   <a href="#data-source">Data Source</a> •
@@ -11,7 +11,7 @@
 A analysis for the New York Citi Bike Program, in which responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States
  in order to generate business insights in terms of visulize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey
  
-* Click [here](https://public.tableau.com/profile/cong.n.tran#!/vizhome/citibikeanalysis_15813901036480/Topandbottom10) to view complted dashboard
+* Click [here](https://public.tableau.com/profile/cong.n.tran#!/vizhome/citibikeanalysis_15813901036480/Topandbottom10) to view complted dashboard (Tableu Public)
 
 ![alt text](https://github.com/congntran92/Citi-Bike-Analytics/blob/master/image/top_location.png)
 
