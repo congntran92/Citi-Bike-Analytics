@@ -1,6 +1,6 @@
 # Citi-Bike-Analytics
 
-![alt text](https://inhabitat.com/wp-content/blogs.dir/1/files/2013/06/ciit-bike-key-600x480.jpg)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citibikenyc.com%2Fpricing%2Fsingle-ride&psig=AOvVaw2X7BAeonNBUlqeOq-fDl70&ust=1581480461065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjah_zPyOcCFQAAAAAdAAAAABAS)
 
 <p align="center">
   <a href="#data-source">Data Source</a> •
